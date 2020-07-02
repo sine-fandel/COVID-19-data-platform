@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: './page'
+  publicPath: '/COVID-19-data-platform/page/'
 }
